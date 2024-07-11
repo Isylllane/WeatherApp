@@ -1,14 +1,10 @@
-# apiwork
+# Vue 3 WeatherApp
 
-This template should help get you started developing with Vue 3 in Vite.
+An weather app built with Vue 3 and the options API.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Find out the weather in the city
+- Find out the minimum and maximum temperature
+- [Openweathermap](https://openweathermap.org/api) API for receiving weather data
 
 ## Project Setup
 
@@ -27,3 +23,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+#### License MIT
